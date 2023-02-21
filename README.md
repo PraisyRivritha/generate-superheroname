@@ -1,1 +1,1 @@
-Using node modules it would generate a random super hero name 🎭 !!!
+Using external node modules it would generate a random super hero name 🎭 !!!
